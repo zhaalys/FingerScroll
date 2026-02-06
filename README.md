@@ -25,7 +25,7 @@ FingerScroll is a lightweight, hands-free scrolling tool that uses your webcam a
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -60,7 +60,7 @@ python main.py
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 You can adjust the scrolling sensitivity in `main.py`:
 
@@ -70,13 +70,13 @@ SCROLL_SPEED = 100  # Change this value to adjust speed
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/zhaalys/FingerScroll/issues).
 
