@@ -1,4 +1,4 @@
-# 🖐️ FingerScroll
+#  FingerScroll
 
 **Hand-Controlled Screen Scrolling using Computer Vision**
 
@@ -6,7 +6,7 @@ FingerScroll is a lightweight, hands-free scrolling tool that uses your webcam a
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Hands-Free Control**: Scroll through recipes, sheet music, or code without touching your mouse.
 - **Ultra-Responsive**: Zero-latency scrolling (optimized with custom `pyautogui` settings).
@@ -15,7 +15,7 @@ FingerScroll is a lightweight, hands-free scrolling tool that uses your webcam a
 
 ---
 
-## 🎮 How to Use
+##  How to Use??
 
 | Gesture                | Action          |
 | :--------------------- | :-------------- |
@@ -35,6 +35,8 @@ cd FingerScroll
 ```
 
 ### 2. Set Up Environment (Recommended)
+
+Enjoy Guyss, Yup
 
 ```bash
 python -m venv .venv
